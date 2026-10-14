@@ -1,0 +1,8 @@
+Your account will expire today. Click here to verify your password!
+Congratulations! You have won a free prize.
+Your university assignment deadline is Friday.
+Urgent: Your bank account is locked. Verify your account now.
+Hello, please find the lecture notes attached.
+You have won a reward. Send your password to claim it.
+Your Python assignment has been graded.
+Security alert! Click here to restore your account.
