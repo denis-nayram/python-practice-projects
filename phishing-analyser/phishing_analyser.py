@@ -46,5 +46,5 @@ def longest_message(messages):
         if len(longest_message_count) < len(message):
             longest_message_count = message
     return longest_message_count
-print("This is the longest message:", longest_message(analyser.splitlines())
+print("This is the longest message:", longest_message(analyser.splitlines()))
 
