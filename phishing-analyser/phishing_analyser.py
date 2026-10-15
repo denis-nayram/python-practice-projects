@@ -25,10 +25,12 @@ for message in case_analyser:
             warning_words_counter += 1
             break
 
+print(f"Suspicious messages found: {warning_words_counter}")
+
 if warning_words_counter > 0:
     print("This message is suspicious")
 else: 
-    "No suspicious message found"
+    print("No suspicious message found")
 
 def count_messages(text):
     counting_messages_in_funtion = 0
@@ -44,5 +46,5 @@ def longest_message(messages):
         if len(longest_message_count) < len(message):
             longest_message_count = message
     return longest_message_count
-print("This is the longest message:", longest_message(analyser.splitlines))
+print("This is the longest message:", longest_message(analyser.splitlines())
 
